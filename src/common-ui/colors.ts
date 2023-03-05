@@ -1,0 +1,9 @@
+const COLORS = {
+  BACKGROUND_100: '#FFFFFF',
+  BACKGROUND_200: '#F5F5F4',
+  BACKGROUND_300: '#000000',
+  TRANSPARENT: 'transparent',
+  LOADER_BACKGROUND: '#00000060',
+};
+
+export default COLORS;
